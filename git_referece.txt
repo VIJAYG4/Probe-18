@@ -6,3 +6,6 @@ https://help.github.com/articles/adding-an-existing-project-to-github-using-the-
 
 3) To amend the commits
 https://help.github.com/articles/changing-a-commit-message/
+
+4) To push a new file into repository
+https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command-line/
