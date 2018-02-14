@@ -1,0 +1,8 @@
+1) Log into git shell with ur username
+https://help.github.com/articles/setting-your-username-in-git/
+
+2) To push the local repository to remote site
+https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+
+3) To amend the commits
+https://help.github.com/articles/changing-a-commit-message/
