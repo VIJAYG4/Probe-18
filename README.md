@@ -1,5 +1,2 @@
-# Probe-18
-Contains PowerPoint Presentations, Code, and FEI database used for "Face Recognition using Deep Learning" workshop.
-
-# How It Works 
-Implemented Deep Neural Network for recognition of Face images in FEI Database.
+# Deep Neural Network based model for Face Recognition
+Contains PowerPoint Presentations, Code, and FEI database used for "Face Recognition using Deep Learning" workshop that me and my friends taught.
